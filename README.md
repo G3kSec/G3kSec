@@ -10,3 +10,6 @@ My goal is to contribute to challenging projects where I can add real value, wor
 ![My Skills](https://skillicons.dev/icons?i=js,python,bash&theme=dark)
 ## Stats
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucianogriffa&theme=gruvbox)
+## Relevant Links
+- HackerOne Profile: https://hackerone.com/g3ksec
+- HackTheBox Profile: https://app.hackthebox.com/profile/1525469
