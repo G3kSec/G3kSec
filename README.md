@@ -2,7 +2,7 @@
 
 Hi! I'm Luciano Griffa, and I'm seeking opportunities as a Pentester or Ethical Hacker.
 
-I'm currently pursuing a Bachelor's degree in Information Security and actively participating in CTFs on Hack The Box. I also work on identifying vulnerabilities in Vulnerability Disclosure Programs (VDP) and Bug Bounty Programs (BBP). In my free time, I share my knowledge and experiences on my blog and social media.
+I'm currently studying a Bachelor's degree in Information Security and actively participating in CTFs on Hack The Box. I also work on identifying vulnerabilities in Vulnerability Disclosure Programs (VDP) and Bug Bounty Programs (BBP). In my free time, I share my knowledge and experiences on my blog and social media.
 
 My goal is to contribute to challenging projects where I can add real value, work collaboratively, apply my skills, and take on challenges that foster my professional growth.
 
