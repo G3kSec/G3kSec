@@ -5,7 +5,7 @@ About Me
 ---
 
 * 🌍  I'm based in Argentina
-* 🧠  Currently learning penetration testing
+* 🧠  Currently learning ethical hacking
 * 📫  How to contact me: [LinkedIn](https://www.linkedin.com/in/lucianogriffa/) [Twitter/X](https://x.com/g3ksec)
 * ⚡  "No system is safe!"
 
