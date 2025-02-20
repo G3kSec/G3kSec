@@ -22,4 +22,4 @@ Relevant Links
 
 GitHub Stats
 ---
-![GitHub Streak](https://streak-stats.demolab.com?user=g3ksec&theme=hacker&border_radius=5)
+[![GitHub Streak](https://streak-stats.demolab.com?user=g3ksec&theme=hacker&border_radius=5)](https://git.io/streak-stats)
