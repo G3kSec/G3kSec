@@ -1,6 +1,8 @@
 Hi 👋, My name is Luciano!
 ---
 
+![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*EYewma2h8GlAXi6kTQc4Jw.gif)
+
 About Me
 ---
 
@@ -21,6 +23,7 @@ Relevant Links
 * 🥷  HackerOne Profile: https://hackerone.com/g3ksec
 * ⚔️  HackTheBox Profile: https://app.hackthebox.com/profile/1525469
 
+<!--
 GitHub Stats
 ---
 [![GitHub Streak](https://streak-stats.demolab.com?user=g3ksec&theme=hacker&border_radius=5)](https://git.io/streak-stats)
