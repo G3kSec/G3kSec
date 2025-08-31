@@ -22,7 +22,7 @@ Relevant Links
 * ⚔️  HackTheBox Profile: https://app.hackthebox.com/profile/1525469
 
 
-![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*EYewma2h8GlAXi6kTQc4Jw.gif)
+<!--* ![](https://miro.medium.com/v2/resize:fit:640/format:webp/1*EYewma2h8GlAXi6kTQc4Jw.gif) -->
 
 GitHub Stats
 ---
