@@ -5,7 +5,7 @@ About Me
 ---
 
 * 🌍  I'm based in Argentina
-* 🧠  Currently learning ethical hacking
+* 🧠  Focused on **ethical hacking**
 * 📫  How to contact me: [LinkedIn](https://www.linkedin.com/in/lucianogriffa/)
 <!--* ⚡  "No system is safe!"-->
 
