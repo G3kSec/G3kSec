@@ -18,6 +18,7 @@ Programming Languages & Tools
 
 Relevant Links
 ---
+* ✍️  Medium: https://medium.com/@LucianoGriffa
 * 💻  LinkedIn: https://linkedin.com/in/lucianogriffa/
 * 🥷  HackerOne Profile: https://hackerone.com/g3ksec
 * ⚔️  HackTheBox Profile: https://app.hackthebox.com/profile/1525469
