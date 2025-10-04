@@ -6,8 +6,6 @@ About Me
 
 * 🌍  I'm based in Argentina
 * 🧠  Focused on **ethical hacking**
-* 📫  How to contact me: [LinkedIn](https://www.linkedin.com/in/lucianogriffa/)
-<!--* ⚡  "No system is safe!"-->
 
 Programming Languages & Tools 
 ---
@@ -18,8 +16,7 @@ Programming Languages & Tools
 
 Relevant Links
 ---
-* ✍️  Medium: https://medium.com/@LucianoGriffa
-* 💻  LinkedIn: https://linkedin.com/in/lucianogriffa/
+* ✍️  Medium: https://medium.com/@G3kSec
 * 🥷  HackerOne Profile: https://hackerone.com/g3ksec
 * ⚔️  HackTheBox Profile: https://app.hackthebox.com/profile/1525469
 
