@@ -11,7 +11,7 @@ Programming Languages & Tools
 ---
 *(Still learning, always improving!)*  
 
-![My Skills](https://skillicons.dev/icons?i=js,python,bash,git,linux,windows&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=js,python,bash&theme=dark)
 
 
 Relevant Links
