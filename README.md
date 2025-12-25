@@ -9,7 +9,7 @@ About Me
 
 Programming Languages & Tools 
 ---
-*(Still learning, always improving!)*  
+<!--*(Still learning, always improving!)*  -->
 
 ![My Skills](https://skillicons.dev/icons?i=js,python,bash&theme=dark)
 
