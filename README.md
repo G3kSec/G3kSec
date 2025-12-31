@@ -1,4 +1,4 @@
-Hi 👋, My name is Luciano!
+Hi! 👋
 ---
 
 About Me
@@ -9,20 +9,17 @@ About Me
 
 Programming Languages & Tools 
 ---
-<!--*(Still learning, always improving!)*  -->
-
 ![My Skills](https://skillicons.dev/icons?i=js,python,bash&theme=dark)
 
 
 Relevant Links
 ---
+* 😀  Portfolio: https://portfolio.g3ksec.xyz
 * ✍️  Medium: https://medium.com/@G3kSec
 * 🥷  HackerOne Profile: https://hackerone.com/g3ksec
-* ⚔️  HackTheBox Profile: https://app.hackthebox.com/profile/1525469
+* 🥷  BugCrowd Profile: https://bugcrowd.com/h/G3kSec
 
-
-<!--GitHub Stats
-
+GitHub Stats
 ---
-[![GitHub Streak](https://streak-stats.demolab.com/?user=g3ksec&theme=transparent&border_radius=5)](https://git.io/streak-stats)
--->
+
+[![GitHub Streak](https://github-readme-streak-stats-vijaypur.vercel.app?user=G3kSec&theme=transparent&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
