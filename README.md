@@ -17,7 +17,6 @@ Relevant Links
 * 😀  Portfolio: https://portfolio.g3ksec.xyz
 * ✍️  Medium: https://medium.com/@G3kSec
 * 💥  HackerOne Profile: https://hackerone.com/g3ksec
-* 💥  BugCrowd Profile: https://bugcrowd.com/h/G3kSec
 
 GitHub Stats
 ---
