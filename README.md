@@ -14,8 +14,6 @@ Programming Languages & Tools
 
 Relevant Links
 ---
-* 😀  Portfolio: https://portfolio.g3ksec.xyz
-* ✍️  Medium: https://medium.com/@G3kSec
 * 💥  HackerOne Profile: https://hackerone.com/g3ksec
 
 GitHub Stats
