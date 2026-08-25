@@ -13,7 +13,7 @@ Bug hunter. I find and report security vulnerabilities in web applications and A
 [![HxBugLetter](https://github-stats-extended.vercel.app/api/pin/?username=G3kSec&repo=HxBugLetter&theme=github_dark&hide_border=true)](https://github.com/G3kSec/HxBugLetter)
 [![HxBugLabs](https://github-stats-extended.vercel.app/api/pin/?username=G3kSec&repo=HxBugLabs&theme=github_dark&hide_border=true)](https://github.com/G3kSec/HxBugLabs)
 
-[HxHashFavicon](https://hashfavicon.hxhunt.com/) · [HxBugLetter](https://bugletter.hxhunt.com/) · [HxBugLabs](https://0xbuglabs.g3ksec.xyz/)
+[HxHashFavicon](https://hashfavicon.hxhunt.com/) · [HxBugLetter](https://bugletter.hxhunt.com/) · [HxBugLabs](https://buglabs.hxhunt.com/)
 
 ---
 -->
